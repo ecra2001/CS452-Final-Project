@@ -7,5 +7,5 @@ Add a row after each work session, update the total, and commit and push the cha
 
 | Date | What | Hours |
 | --- | --- | ---: |
-| | | |
+|11/19 |Set up initial design | 1.5 |
 | **Total** | | **0** |
